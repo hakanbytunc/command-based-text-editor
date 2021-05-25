@@ -1,0 +1,1655 @@
+SpaceX (Space Exploration Technologies Corporation,
+ups 
+ups2 
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.SpaceX (Space Exploration Technologies Corporation,
+Uzay Keşif Teknolojileri Şirketi), merkezi ABD'nin Kaliforniya
+eyaletindeki Hawthorne şehrinde bulunan bir Amerikalı uzay
+taşımacılığı şirketidir.
+şirket 2002 yılında, daha önce PayPal'ın da kurucularından
+olan, Tesla Motors şirketinin CEO'su Elon Musk tarafından;
+Mars'ın kolonileştirilmesini sağlamak üzere uzay taşımacılığının
+maliyetini düşürme hedefiyle kuruldu. Şimdiye kadar
+Falcon 1 ve Falcon 9, Falcon Heavy isimli, en baştan tekrar
+kullanılabilirlik için tasarlanmış olan, uzaya fırlatma
+araç/roket sistemlerini ve Falcon 9 tarafından yörüngeye
+çıkarılmış olan, Uluslararası Uzay İstasyonuna malzeme/erzak
+temin etmek üzere Dragon (insansız) uzay aracını geliştirdi. 
+Dragon uzay aracının insanlı hali geliştirme aşamasındadır.
+SpaceX'in başarıları arasında şunlar bulunmaktadır:
+28 Eylül 2008 tarihinde, özel sektör tarafından 
+finanse edilen ve yörüngeye ulaşan ilk sıvı yakıtlı roket 
+9 Aralık 2010 tarihinde, bir uzay aracını uzaya fırlatan, 
+yörüngeye oturtan ve bu uzay aracını (Dragon) başarılı bir 
+şekilde dünyaya geri getiren ilk özel sektör şirketi;
+25 Mayıs 2012 tarihinde Uluslararası Uzay İstasyonuna bir 
+uzay aracı (Dragon) yollayan ilk özel sektör şirketi.
+8 uydusunun 3 Aralık 2013'te fırlatılışı, SpaceX'in yer
+eşzamanlı yörünge'ye ilk teslimatı olmuştur.
+Kaliteyi ve maliyeti denetim altında tutmak amacıyla,
+SpaceX uzay aracı ve roketlerde kullandığı bileşenlerin
+büyük çoğunluğunun tasarımını, testlerini ve üretimini
+şirket içinde gerçekleştirmektedir; bu bileşenler
+arasında Falcon fırlatma araçlarında ve Dragon uzay
+aracında kullanılan Merlin,Kestrel ve Draco roket
+motorları bulunmaktadır. Bu SpaceX'in sektördeki
+en ucuz fırlatma fiyatını verebilmesine ve geleneksel
+roket geliştirme/üretme zamanını büyük oranda
+azaltabilmesine olanak tanımıştır.
+2013 Kasım ayında, ticari fırlatmalarda piyasa lideri
+olan Fransız şirketi Arianespace, SpaceX'in oluşturduğu
+rekabet sebebiyle, Ariane 5 roketiyle jeostatik Yörünge'ye
+taşıdığı "daha hafif uydular" için esnek fiyatlandırmaya gideceğini açıklamıştır.
+2006 yılında NASA; şirket ile, Uluslararası Uzay İstasyonu'na
+(UUİ) yük tedarik edebilecek bir fırlatma/taşıma sistemini
+tasarlayıp gerçekleştirebilmesi için 'Ticari Yörüngesel
+Taşımacılık ' (COTS) sözleşmesi imzaladı. SpaceX, 2015
+haziran itibarıyla UUİ'ye, yük tedarik anlaşması altında,
+5 uçuş gerçekleştirmiştir. NASA; SpaceX ile ayrıca, 
+NASA'nın 'Ticari Mürettebat Geliştirme' (CCDev) 
+programının parçası olarak, insanlı kullanıma uygun 
+Dragon aracının geliştirilmesi ve başarılı bir şekilde
+kullanımının gösterilmesi için sözleşme imzalamıştır.
+SpaceX, ilk mürettebatlı Dragon/Falcon 9 uçuşunu 2016 yılı
+içinde yapmayı planlamaktadır. Şirket o zamana kadar uzay
+aracına, tamamıyla tüm gereksinimleri karşıladığı 
+tasdiklenmiş, insan-kullanımı için fırlatma sırasında 
+kaçış sistemini dahil etmiş olmayı umuyor. NASA 
+sözleşmelerinin yanı sıra; SpaceX özel sektör şirketleri, 
+ABD dışındaki hükümet kurumları ve Amerikan ordusuyla,
+kendisinin fırlatma hizmetleri için sözleşme imzalamıştır.
+2015 şubat itibarıyla, SpaceX 15 adet Falcon 9 roketini;
+14 başarılı ve bir kısmi başarısızlıkla fırlatmış
+ve müşterileri için en az 30 ileri tarihli fırlatma
+planlamış durumdadır.
